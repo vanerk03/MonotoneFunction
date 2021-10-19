@@ -1,2 +1,2 @@
 # MonotoneFunction
-DFS-based algorithm to check whether vector-function is monotone or not
+DFS-based algorithm to check whether boolean function is monotone or not
