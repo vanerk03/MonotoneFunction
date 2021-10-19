@@ -1,6 +1,6 @@
 # time complexity of the algorithm is O(k * log k) = O(k * n)
 # k = 2 ** n
-# n - number of arguments boolean fucntion takes
+# n - arity of boolean function
 
 def isMonotone(n: int, vector: str) -> bool:
 
