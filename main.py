@@ -2,7 +2,7 @@
 # k = 2 ** n
 # n - arity of boolean function
 
-def isMonotone(n: int, vector: str) -> bool:
+def is_monotone(n: int, vector: str) -> bool:
 
     used = [False] * (2 ** n)
 
